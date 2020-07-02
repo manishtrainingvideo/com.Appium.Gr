@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.145 s <<< FAILURE! - in TestSuite
+startExecution(Regression.GeneralStoreFinal)  Time elapsed: 3.967 s  <<< FAILURE!
+io.appium.java_client.service.local.InvalidServerInstanceException: Invalid server instance exception has occured: There is no installed nodes! Please install node via NPM (https://www.npmjs.com/package/appium#using-node-js) or download and install Appium app (http://appium.io/downloads.html)
+	at Regression.GeneralStoreFinal.startExecution(GeneralStoreFinal.java:23)
+Caused by: java.io.IOException: 
+C:\Windows\system32\config\systemprofile\AppData\Roaming\npm\node_modules
+
+	at Regression.GeneralStoreFinal.startExecution(GeneralStoreFinal.java:23)
+

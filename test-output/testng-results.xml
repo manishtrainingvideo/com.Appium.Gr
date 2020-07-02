@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83874" started-at="2020-07-01T12:06:19Z" finished-at="2020-07-01T12:07:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83874" started-at="2020-07-01T12:06:19Z" finished-at="2020-07-01T12:07:43Z">
+      <class name="Regression.GeneralStoreFinal">
+        <test-method status="PASS" signature="startExecution()[pri:0, instance:Regression.GeneralStoreFinal@2b2948e2]" name="startExecution" duration-ms="83760" started-at="2020-07-01T12:06:19Z" finished-at="2020-07-01T12:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExecution -->
+        <test-method status="PASS" signature="closeEmulatorAndKIllServer()[pri:0, instance:Regression.GeneralStoreFinal@2b2948e2]" name="closeEmulatorAndKIllServer" is-config="true" duration-ms="88" started-at="2020-07-01T12:07:43Z" finished-at="2020-07-01T12:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeEmulatorAndKIllServer -->
+      </class> <!-- Regression.GeneralStoreFinal -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
